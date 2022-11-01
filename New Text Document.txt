@@ -1,0 +1,4 @@
+secure_the_german_border_title;Alsace Burgundians;;;;;;;;;;;;;
+secure_the_german_border_desc:Germans should be a bit further from us.;;;;;;;;;;;;;;
+secure_the_german_border2_title;Germans Breathing on Our Neck;;;;;;;;;;;;;
+secure_the_german_border2_desc:Alsace should belong to the Burgundian Minority.;;;;;;;;;;;;;;
